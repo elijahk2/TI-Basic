@@ -7,7 +7,7 @@ ClrHome
 7->S
 4->T
 3->D
-->A
+9->A
 4->B
 DelVar [A] {8, 16->dim([A]
 D->[A](T,S)
