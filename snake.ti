@@ -26,7 +26,7 @@ Repeat K=45 or [A](Y,X)
       L+1->L
     Else
       Output(T,S," ")
-    [A](T,S->E
+      [A](T,S->E
       0→[A](T,S
       S+(E=3)-(E=1→S
       Ans+16((Ans=0)-(Ans=17->S
